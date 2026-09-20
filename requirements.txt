@@ -1,0 +1,13 @@
+tensorflow
+keras
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+librosa
+soundfile
+tensorflow-datasets
+datasets
+huggingface-hub
+pydub
